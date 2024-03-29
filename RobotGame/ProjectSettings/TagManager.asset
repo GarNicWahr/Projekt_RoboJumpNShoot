@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boden
+  - Hintergrund
+  - Enemy
+  - Bullet
+  - DeathZone
+  - DespawnZone
+  - Walls
+  - Lizard
+  - Boss
+  - Eis
+  - HealthPickup
+  - PulsePickup
+  - EnemyAir
+  - SpaceShipPart
+  - EnemyGhost
+  - SuperGun
+  - PlayerSpawn
+  - HealthBar
+  - deathBox
+  - Dummy
+  - PlayerRig
+  - CompleteDialog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - World
+  - Water
+  - UI
+  - Player
+  - Boss
+  - Obstacle
+  - Bullet
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Hintergrund
+    uniqueID: 2396732337
+    locked: 0
+  - name: Hintergrund 1
+    uniqueID: 3635553311
+    locked: 0
+  - name: Hintergrund 2
+    uniqueID: 1694564121
+    locked: 0
+  - name: Hintergrund 3
+    uniqueID: 4217290255
+    locked: 0
+  - name: World
+    uniqueID: 1185305791
+    locked: 0
+  - name: Boss
+    uniqueID: 3702232825
+    locked: 0
+  - name: Death
+    uniqueID: 2895401587
+    locked: 0
+  - name: Player
+    uniqueID: 980813727
+    locked: 0
+  - name: Vordergrund
+    uniqueID: 3275149227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
